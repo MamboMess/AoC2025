@@ -6,5 +6,7 @@ note:
 2) sometimes I solve part 1 and 2 with the same script. sometimes I code bad
 
 python packages:
+
 more_itertools
+
 numpy
